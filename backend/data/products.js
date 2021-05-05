@@ -1,6 +1,5 @@
 const products = [
   {
-    _id: '1',
     name: 'Airpods wireless Blutooth',
     image: '/images/airpods.jpg',
     description:
@@ -13,7 +12,6 @@ const products = [
     numReviews: 80,
   },
   {
-    _id: '2',
     name: 'Amazon smart speaker',
     image: '/images/alexa.jpg',
     description:
@@ -26,7 +24,6 @@ const products = [
     numReviews: 60,
   },
   {
-    _id: '3',
     name: 'Canon HD Camera',
     image: '/images/camera.jpg',
     description: 'It has got trendy vibe with loads of cool customizations ',
@@ -38,7 +35,6 @@ const products = [
     numReviews: 40,
   },
   {
-    _id: '4',
     name: 'Iphone 11 pro',
     image: '/images/phone.jpg',
     description:
@@ -51,7 +47,6 @@ const products = [
     numReviews: 50,
   },
   {
-    _id: '5',
     name: 'Logitech Gaming mouse',
     image: '/images/mouse.jpg',
     description: 'Made out of cotton and nice color combination ',
@@ -63,7 +58,6 @@ const products = [
     numReviews: 35,
   },
   {
-    _id: '6',
     name: 'Sony playstation 4 pro',
     image: '/images/playstation.jpg',
     description: 'Ironic urban custom jeans ',
